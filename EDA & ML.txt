@@ -1,0 +1,46 @@
+Stats:
+  https://medium.com/analytics-vidhya/basic-statistics-in-data-science-38245e9b32bf
+  https://chatgpt.com/share/ddf8ccd4-45b1-4cb7-b3ab-b2ab4ebf774d 
+chi-sq. Test: cat-cat
+Anova Test: cat-num
+
+Git:(for DC||EDA||FE)
+  https://github.com/atulpatelDS/Youtube/tree/main/
+
+Pandas:
+  https://medium.com/@LearnPythonProgramming/20-pandas-codes-to-elevate-your-data-analysis-skills-6e3552a08c3d
+
+EDA:
+  https://www.analyticsvidhya.com/blog/2021/02/introduction-to-exploratory-data-analysis-eda/
+  https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/
+  https://www.analyticsvidhya.com/blog/2020/08/exploratory-data-analysiseda-from-scratch-in-python/
+
+Linear Regression:
+  https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/
+  https://chatgpt.com/share/948cf073-c2d5-4ca9-a8e3-a2768f8bd99b
+
+Logistic Regression:
+  https://medium.com/analytics-vidhya/understanding-logistic-regression-in-depth-intuition-99ad14724464
+
+Decision Trees:
+  https://www.analyticsvidhya.com/blog/2021/08/decision-tree-algorithm/
+
+SVM:
+  https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/
+Basic Assumptions:
+1. Linearly Separable Data (or Kernel Trick): Essential for finding a separating hyperplane or fitting a regression function, even in non-linear cases.
+2. Feature Scaling: Critical for ensuring that all features contribute equally to the model and that the optimization problem is well-posed.
+3. Regularization: Balances model complexity and generalization, preventing overfitting and underfitting.
+4. Convex Optimization: Guarantees convergence to a unique optimal solution, ensuring model reliability and consistency.
+
+Naive Bayes:
+  https://www.analyticsvidhya.com/blog/2021/01/a-guide-to-the-naive-bayes-algorithm/#What_Are_the_Assumptions_Made_by_the_Naive_Bayes_Algorithm?
+Basic Assumptions:
+1. The main assumption is that it assumes that the features are conditionally independent of each other.
+2. Each of the features is equal in terms of weightage and importance.
+3. The algorithm assumes that the features follow a normal distribution.
+4. The algorithm also assumes that there is no or almost no correlation among features.
+
+Ensemble Techniques: (No Basic-Assumptions)
+  All concepts & Intutions:
+  https://drive.google.com/drive/folders/1-ORBWuHaH7wsnfz1gHxVPAblidfs_xjJ  
